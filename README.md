@@ -20,8 +20,8 @@ By integrating wearable sensors, home monitoring devices, and predictive analyti
 ## 🩺 Key Features
 
 ### **Continuous Monitoring**
-- Tracks heart rate, steps, activity levels  
-- Detects falls via wearable wrist sensor  
+- Tracks heart rate, steps, and activity levels  
+- Detects falls via a wearable wrist sensor  
 - Medication reminders & adherence tracking  
 
 ### **Predictive AI**
