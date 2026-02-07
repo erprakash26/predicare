@@ -31,7 +31,7 @@ By integrating wearable sensors, home monitoring devices, and predictive analyti
 
 ### **Caregiver Dashboard**
 - Real-time vitals  
-- Live monitoring  
+- Live monitoring dashboard
 - Risk assessments & anomaly alerts  
 
 ### **Voice Companion**
