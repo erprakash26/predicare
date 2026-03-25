@@ -5,7 +5,7 @@
 <h1 align="center">PrediCareAI – AI-Powered Elderly Care Assistant</h1>
 
 <p align="center">
-Helping seniors live safely, independently, and confidently with the power of AI.
+Helping seniors live safely, independently, and confidently with the power of AI..
 </p>
 
 ---
